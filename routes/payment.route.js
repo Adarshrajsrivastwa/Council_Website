@@ -1,12 +1,6 @@
-<<<<<<< HEAD
-let express = require('express');
-const Razorpay = require('razorpay');
-require('dotenv').config();
-=======
 
 const express = require('express');
 const Razorpay = require('razorpay');
->>>>>>> a5c64ef753e7cad48f6910238fa95d7f66eec003
 const router = express.Router();
 const crypto = require('crypto');
 const Registration = require('../models/payment.model');
@@ -348,13 +342,6 @@ router.post('/api/payment/verify', async (req, res) => {
       .update(razorpayOrderId + '|' + razorpayPaymentId)
       .digest('hex');
     
-<<<<<<< HEAD
-  if (generatedSignature !== signature) {
-    return res.status(400).json({ error: 'Invalid signature' });
-  }  
-  
-  // Check if order data exists in session
-=======
     if (generatedSignature !== signature) {
       return res.status(400).json({ error: 'Invalid signature' });
     }
@@ -362,7 +349,6 @@ router.post('/api/payment/verify', async (req, res) => {
   module.exports =app;
     
     // Check if order data exists in session
->>>>>>> a5c64ef753e7cad48f6910238fa95d7f66eec003
     if (req.session.orderData && req.session.orderData.orderId === razorpayOrderId) {
       // Order data found in session
       const orderData = req.session.orderData;
