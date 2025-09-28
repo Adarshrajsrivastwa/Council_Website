@@ -3,7 +3,7 @@
       {
         "role": "President",
         "name": "Harsh Raj Singh",
-        "img": "https://res.cloudinary.com/dlk5kntmy/image/upload/v1743659738/Harsh_Raj_Singh_f5uhvp.jpg",
+        "img": "/images/office Bearer/President.jpg",
         "msg": "As President, my goal is to spark innovation, uplift student voices, and cultivate leadership at every level. Let’s work side by side to make our council a true foundation for growth and success. ",
         "socials": {
           "linkedin": "https://www.linkedin.com/in/harshrs252/",
@@ -17,7 +17,7 @@
       {
         "role": "Vice President",
         "name": "Pratul Kumar",
-        "img": "https://res.cloudinary.com/dlk5kntmy/image/upload/v1747503210/Pratul_Kumar_yddnjw.jpg",
+        "img": "/images/office Bearer/Vice Presient.jpg",
         "msg": "As Vice President, I am committed to inspiring innovation and encouraging leadership across all student initiatives. Let's make our council a true pillar of growth.",
         "socials": {
           "linkedin": "https://www.linkedin.com/in/pratul-k-21nov05/",

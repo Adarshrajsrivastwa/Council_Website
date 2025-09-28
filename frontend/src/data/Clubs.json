@@ -2,97 +2,97 @@
     "clubsData": [
       {
         "name": "Alumni Relation Committee",
-        "img": "/clublogo/Alumni_Relation_mp5xrs.png",
+        "img": "/images/Club logos/Alumni_Relation_mp5xrs.png",
         "link": "/club/alumni"
         },
       {
         "name": "Coding Club",
-        "img": "/clublogo/Coding_club_ed2sbh.png",
+        "img": "/images/Club logos/Coding_club_ed2sbh.png",
         "link": "/club/coding"
       },
       {
         "name": "Cultural & Event Cell",
-        "img": "/clublogo/CULTURAL_EvENT_abnyuq.png",
+        "img": "/images/Club logos/CULTURAL_EvENT_abnyuq.png",
         "link": "/club/cultural"
       },
       {
         "name": "Cyber Cop Cell",
-        "img": "/clublogo/cyber_COP_npmtvn.png",
+        "img": "/images/Club logos/cyber_COP_npmtvn.png",
         "link": "/club/cyber"
       },
       {
         "name": "Dance Society",
-        "img": "/clublogo/DAnce_Club_s5g6df.png",
+        "img": "/images/Club logos/DAnce_Club_s5g6df.png",
         "link": "/club/dance"
       },
       {
         "name": "Drone Society",
-        "img": "/clublogo/DRONE_SOCIETY_ugfbt4.png",
+        "img": "/images/Club logos/DRONE_SOCIETY_ugfbt4.png",
         "link": "/club/drone"
       },
       {
         "name": "ELITE (Excellence & Leadership in Integrity, Tact, and Ethics)",
-        "img": "/clublogo/elite.png",
+        "img": "/images/Club logos/ELITE.png",
         "link": "/club/elite"
       },
       {
         "name": "E.V. Club",
-        "img": "/clublogo/EV.png",
+        "img": "/images/Club logos/EV_g2djgp.png",
         "link": "/club/e.v."
       },
       {
         "name": "Environment Club",
-        "img": "/clublogo/ENVIRONMENT_cLUB_byfpyp.png",
+        "img": "/images/Club logos/ENVIRONMENT_cLUB_byfpyp.png",
         "link": "/club/Environment"
       },
       {
         "name": "Entrepreneurship Cell",
-        "img": "/clublogo/ENTREpRENEURSHIp_weamnu.png",
+        "img": "/images/Club logos/ENTREpRENEUR.png",
         "link": "/club/entrepreneurship"
       },
       {
         "name": "IEEE Student Chapter",
-        "img": "/clublogo/IEEE_Student_Chapter_tzqiza.png",
+        "img": "/images/Club logos/IEEE_Student_Chapter_tzqiza.png",
         "link": "/club/ieee"
       },
       {
         "name": "Literary Club",
-        "img": "/clublogo/LITERARY_Club_ooakhl.png",
+        "img": "/images/Club logos/LITERARY_Club_ooakhl.png",
         "link": "/club/literary"
       },
       {
         "name": "Media Fusion Society",
-        "img": "/clublogo/Media_Fusion_vhlhjp.png",
+        "img": "/images/Club logos/Media_Fusion_vhlhjp.png",
         "link": "/club/media"
       },
       {
         "name": "Music Society",
-        "img": "/clublogo/mUSIC_SOCIETY_m2wmom.png",
+        "img": "/images/Club logos/mUSIC_SOCIETY_m2wmom.png",
         "link": "/club/music"
       },
       {
         "name": "NSS Unit",
-        "img": "/clublogo/NSS_UNIT_qkyao0.png",
+        "img": "/images/Club logos/NSS_UNIT_qkyao0.png",
         "link": "/club/nss"
       },
       {
         "name": "Renewable Energy Club",
-        "img": "/clublogo/RENEwAbLE_ENERGY_x7mjft.png",
+        "img": "/images/Club logos/RENEwAbLE_ENERGY_x7mjft.png",
         "link": "/club/renewable"
       },
       {
         "name": "Robotics Club",
-        "img": "/clublogo/RObOTICS_CLUB_zuu4q1.png",
+        "img": "/images/Club logos/RObOTICS_CLUB_zuu4q1.png",
         "link": "/club/robotics"
       },
       {
         "name": "Tech Wizard Club",
-        "img": "/clublogo/Tech_WIZARDs_obkby8.png",
+        "img": "/images/Club logos/Tech_WIZARDs_obkby8.png",
         "link": "/club/tech"
       },
       {
         "name": "WINGS (Women Inspiring Growth & Success)",
-        "img": "/clublogo/WINGS_odrbj6.png",
+        "img": "/images/Club logos/WINGS_odrbj6.png",
         "link": "/club/wings"
       }
     ]

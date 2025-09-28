@@ -1,13 +1,13 @@
 {
     "videos": {
-      "homeHero": "https://res.cloudinary.com/dlk5kntmy/video/upload/v1743771359/home_page_video_gfsiig.mp4"
+      "homeHero": "/Homevideo/home_page_video_gfsiig.mp4"
     },
     "images": {
-      "codingClub": "https://res.cloudinary.com/dlk5kntmy/image/upload/v1747502249/Coding_club_ed2sbh.png",
-      "cyberCop": "https://res.cloudinary.com/dlk5kntmy/image/upload/v1747502250/cyber_cop.png"
+      "codingClub": "/images/Club logos/Coding_club_ed2sbh.png",
+      "cyberCop": "/images/Club logos/cyber_COP_npmtvn.png"
     },
     "logos": {
-      "councilLogo": "https://res.cloudinary.com/dlk5kntmy/image/upload/v1747502420/Student_council_vjzt0j.png"
+      "councilLogo": "/images/Club logos/Student_council_vjzt0j.png"
     }
   }
   

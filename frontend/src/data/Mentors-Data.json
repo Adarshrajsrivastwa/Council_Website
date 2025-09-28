@@ -1,43 +1,43 @@
 {
   "mentorsHeads": [
     {
-      "img": "https://res.cloudinary.com/dlk5kntmy/image/upload/v1743660416/Prof._Dr._Shashi_K._Jain_suhcb0.png",
+      "img": "/faculty/Prof._Dr._Shashi_K._Jain_suhcb0.png",
       "name": "Prof.(Dr.) Shashi K. Jain",
       "role": "Council Head",
       "quote": "Empowering students to lead and innovate "
     },
     {
-      "img": "https://res.cloudinary.com/dlk5kntmy/image/upload/v1756697768/sanjeev_bw81al.jpg",
+      "img": "/faculty/Dr._Sanjeev_Sharma_urivcr.png",
       "name": "Prof.(Capt.) Sanjeev sharma",
       "role": "Director’s Advisory Board Member",
       "quote": "Where leadership meets foresight"
     },
     {
-      "img": "https://res.cloudinary.com/dlk5kntmy/image/upload/v1743660404/Dr._Kavita_Burse_wja9mi.png",
+      "img": "/faculty/Dr._Kavita_Burse_wja9mi.png",
       "name": "Dr. Kavita Burse",
       "role": "Professional Development Mentor",
       "quote": "Fostering professional growth and excellence"
     },
     {
-      "img": "https://res.cloudinary.com/dlk5kntmy/image/upload/v1755546227/vivek_hit4tn.png",
+      "img": "/faculty/vivek_hit4tn.png",
       "name": "Dr. Vivek Sharma",
       "role": "Council Mentor",
       "quote": "Nurturing leadership potential"
     },
     {
-      "img": "https://res.cloudinary.com/dlk5kntmy/image/upload/v1755433820/123_eh7pk6.png",
+      "img": "/faculty/123_eh7pk6.png",
       "name": "Dr. Anula Khare",
       "role": "Council Advisor",
       "quote": "Building bridges to success"
     },
     {
-      "img": "https://res.cloudinary.com/dlk5kntmy/image/upload/v1755428980/sumit_sir_p1dgfr.png",
+      "img": "/faculty/sumit_sir_p1dgfr.png",
       "name": "Dr. Sumit Vashishtha",
       "role": "Faculty Committee Head",
       "quote": "Leading through collaboration"
     },
     {
-      "img": "https://res.cloudinary.com/dlk5kntmy/image/upload/v1743660404/Dr._Sangeeta_Kumar_vraogx.png",
+      "img": "/faculty/Dr._Sangeeta_Kumar_vraogx.png",
       "name": "Dr. Sangeeta Kumar",
       "role": "Literary Patron",
       "quote": "Crossword to Transformational Journey"
@@ -45,31 +45,31 @@
   ],
   "subMentors": [
     {
-      "img": "https://res.cloudinary.com/dlk5kntmy/image/upload/v1755431802/div_vaztvi.png",
+      "img": "/faculty/div_vaztvi.png",
       "name": "Prof. Divyank Mishra"
     },
     {
-      "img": "https://res.cloudinary.com/dlk5kntmy/image/upload/v1755525322/51_bpazg8.jpg",
+      "img": "/faculty/51_bpazg8.jpg",
       "name": "Prof. Himanshu Shroti"
     },
     {
-      "img": "https://res.cloudinary.com/dlk5kntmy/image/upload/v1743660407/Prof._Kuldeep_Singh_Parihar_fffjha.png",
+      "img": "/faculty/Prof._Kuldeep_Singh_Parihar_fffjha.png",
       "name": "Prof. Kuldeep Singh Parihar"
     },
     {
-      "img": "https://res.cloudinary.com/dlk5kntmy/image/upload/v1755431801/abhay_sir_axmpvy.jpg",
+      "img": "/faculty/abhay_sir_axmpvy.jpg",
       "name": "Prof. Abhay Chaturvedi"
     },
     {
-      "img": "https://res.cloudinary.com/dlk5kntmy/image/upload/v1743666290/Prof._Kavita_Singh_jbhmpg.png",
+      "img": "/faculty/Prof._Kavita_Singh_jbhmpg.png",
       "name": "Prof. Kavita Singh"
     },
     {
-      "img": "https://res.cloudinary.com/dlk5kntmy/image/upload/v1743660411/Prof._Nadish_Pandey_pdpr8z.png",
+      "img": "/faculty/Prof._Nadish_Pandey_pdpr8z.png",
       "name": "Prof. Nadish Pandey"
     },
     {
-      "img": "https://res.cloudinary.com/dlk5kntmy/image/upload/v1743660415/Prof._Pragya_qv4r11.png",
+      "img": "/faculty/Prof._Pragya_qv4r11.png",
       "name": "Prof. Pragya Tripathi"
     }
   ]

@@ -4,28 +4,28 @@
       "name": "Prabhat Kumar",
       "role": "Club Mentor",
       "quote": "Guiding visionaries to turn innovative ideas into reality.",
-      "img": "https://res.cloudinary.com/dlk5kntmy/image/upload/v1743659746/Prabhat_kumar_h7yvpf.jpg",
+      "img": "/images/office Bearer/Club mentor.jpg",
       "social": { "twitter": "#", "linkedin": "#", "instagram": "#", "github": "#" }
     },
     {
       "name": "Sahil Kumar",
       "role": "Club Advisor",
       "quote": "Inspiring excellence and leadership through wisdom and support.",
-      "img": "https://res.cloudinary.com/dlk5kntmy/image/upload/v1743659749/sahil_bhaiya_sgoxuk.jpg",
+      "img": "/images/office Bearer/Club Advisor.jpg",
       "social": { "twitter": "#", "linkedin": "#", "instagram": "#", "github": "#" }
     },
     {
       "name": "Shubham Raj",
       "role": "Chief Committee Officer",
       "quote": "Building strong teams and transforming collaboration into success.",
-      "img": "https://res.cloudinary.com/dlk5kntmy/image/upload/v1743659754/Shubham_raj_ptynkn.jpg",
+      "img": "/images/office Bearer/Chief Committee Officer.jpg",
       "social": { "twitter": "#", "linkedin": "#", "instagram": "#", "github": "#" }
     },
     {
       "name": "Harsh Raj Singh",
       "role": "President",
       "quote": "Inspiring innovation, fostering collaboration, and leading with purpose.",
-      "img": "https://res.cloudinary.com/dlk5kntmy/image/upload/v1743659738/Harsh_Raj_Singh_f5uhvp.jpg",
+      "img": "/images/office Bearer/President.jpg",
       "social": {
         "linkedin": "https://www.linkedin.com/in/harshrs252/",
         "instagram": "https://www.instagram.com/harshchandel_1?igsh=MTc3aGZtMWJ4Z2R3eg==",
@@ -39,7 +39,7 @@
       "name": "Pratul Kumar",
       "role": "Vice President",
       "quote": "Empowering collaboration and driving impactful initiatives forward.",
-      "img": "https://res.cloudinary.com/dlk5kntmy/image/upload/v1747503210/Pratul_Kumar_yddnjw.jpg",
+      "img": "/images/office Bearer/Vice Presient.jpg",
       "social": {
         "linkedin": "https://www.linkedin.com/in/pratul-k-21nov05/",
         "instagram": "https://www.instagram.com/pratul._.pandey/",
@@ -53,7 +53,7 @@
       "name": "Vedant Singh",
       "role": "General Secretary",
       "quote": "Leading with clarity, dedication, and a vision for collective growth.",
-      "img": "https://res.cloudinary.com/dlk5kntmy/image/upload/v1755525257/49_qwlwtq.jpg",
+      "img": "/faculty/49_qwlwtq.jpg",
       "social": {
         "linkedin": "https://www.linkedin.com/in/vedant-singh-50b56b226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         "instagram": "https://www.instagram.com/_vedant._.singh_?igsh=M2JheHpsNnM3OGw=",
@@ -74,7 +74,7 @@
       "name": "Abhishek Modi",
       "role": "Assistant Academic Council Officer",
       "quote": "Supporting academic growth through integrity and commitment.",
-      "img": "https://res.cloudinary.com/dlk5kntmy/image/upload/v1755342899/IMG-20250428-WA0092_2_-_Abhishek_Modi_imitfk.jpg",
+      "img": "/images/office Bearer/Asst. Acadmeic Officer.jpg",
       "social": { "twitter": "#", "linkedin": "https://www.linkedin.com/in/abhishek-modi-8ba0bb257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app", "instagram": "#", "github": "#" }
     },
     {
@@ -88,35 +88,35 @@
       "name": "Namrata Khapre",
       "role": "Public Relationship Officer",
       "quote": "Connecting the council with the community through trust and communication.",
-      "img": "https://res.cloudinary.com/dlk5kntmy/image/upload/v1743659740/IMG-20241030-WA0004_-_Namrata_Khapre_wmtfys.jpg",
+      "img": "/images/office Bearer/Public Realtionship Officer.jpg",
       "social": { "twitter": "#", "linkedin": "https://www.linkedin.com/in/namrata-khapre-739b66258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app", "instagram": "#", "github": "#" }
     },
     {
       "name": "Shivam Choubey",
       "role": "Club Editor",
       "quote": "Documenting journeys and inspiring members through powerful storytelling.",
-      "img": "https://res.cloudinary.com/dlk5kntmy/image/upload/v1755537533/1233_gwyddq.jpg",
+      "img": "/images/office Bearer/Club Editor.jpg",
       "social": { "twitter": "#", "linkedin": "https://www.linkedin.com/in/shivam-choubey%F0%9F%87%AE%F0%9F%87%B3-553483257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app", "instagram": "#", "github": "#" }
     },
     {
       "name": "Dipal Turkar",
       "role": "Treasurer",
       "quote": "Ensuring financial transparency and responsibility for the council’s growth.",
-      "img": "https://res.cloudinary.com/dlk5kntmy/image/upload/v1743659737/Deepal_Turkar_ockdvg.jpg",
+      "img": "/images/office Bearer/Treasurer.jpg",
       "social": { "twitter": "#", "linkedin": "https://www.linkedin.com/in/deepal-turkar-712b33258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app", "instagram": "#", "github": "#" }
     },
     {
       "name": "Abhinandan Kumar",
       "role": "Joint Secretary Pharmacy",
       "quote": "Representing pharmacy students and coordinating departmental activities with dedication.",
-      "img": "https://res.cloudinary.com/dlk5kntmy/image/upload/v1755344445/20250514_124602_copy_2700x3600_-_Abhinandan_Kumar_q1fsq9.jpg",
+      "img": "/images/office Bearer/Joint Secretary Pharmacy.jpg",
       "social": { "twitter": "#", "linkedin": "https://www.linkedin.com/in/abhinandan-kumar-831b60277", "instagram": "#", "github": "#" }
     },
     {
       "name": "Komal Kumari",
       "role": "Assistant Joint Secretary Pharmacy",
       "quote": "Supporting pharmacy initiatives and assisting in departmental coordination.",
-      "img": "https://res.cloudinary.com/dlk5kntmy/image/upload/v1755344398/294b50ae-8c14-4c5b-8e03-7f036367128c.png",
+      "img": "/images/office Bearer/Asst.Joint Secretary Pharmacy.png",
       "social": { "twitter": "#", "linkedin": "#", "instagram": "#", "github": "#" }
     }
   ]
