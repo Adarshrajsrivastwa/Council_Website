@@ -113,7 +113,6 @@
     {
       "name": "IEEE Student Chapter",
       "coordinator": { "name": "Naina Gupta", "photo_src": "/images/Clubs/IEEE/coordinator.jpg" },
-      "secretary": { "name": "Pawan Kumar Sahu", "photo_src": "/images/Clubs/IEEE/secretary.jpg" },
       "assistant_secretary": { "name": "Ameer Hamza", "photo_src": "/images/Clubs/IEEE/assistant secretary.jpg" },
       "club_logo": "/images/Club logos/IEEE_Student_Chapter_tzqiza.png",
       "mission": "To advance technical knowledge and professional growth through IEEE standards.",
@@ -169,6 +168,7 @@
       "name": "Renewable Energy Club",
       "coordinator": { "name": "Hemant Khaparihye", "photo_src": "/images/Clubs/Renewable/coordinator.png" },
       "secretary": { "name": "Pranav Kumar", "photo_src": "/images/Clubs/Renewable/secretary.jpg" },
+      "assistant_secretary": { "name": "Golu Kumar", "photo_src": "/images/Club logos/RENEwAbLE_ENERGY_x7mjft.png" },
       "club_logo": "/images/Club logos/RENEwAbLE_ENERGY_x7mjft.png",
       "mission": "To promote renewable energy technologies and awareness.",
       "vision": "To lead initiatives in sustainable energy solutions.",
@@ -201,7 +201,7 @@
     },
     {
       "name": "WINGS (Women Inspiring Growth & Success)",
-      "coordinator": { "name": "Palak Soni", "photo_src": "/images/Clubs/WINGS/coordinator.jpg"},
+      "coordinator": { "name": "Namarta  Khapre", "photo_src": "/images/Clubs/WINGS/coordinator.jpg"},
       "club_logo": "/images/Club logos/WINGS_odrbj6.png",
       "mission": "To empower women and develop leadership skills among female students.",
       "vision": "To create a supportive and inspiring environment for women in education and leadership.",
