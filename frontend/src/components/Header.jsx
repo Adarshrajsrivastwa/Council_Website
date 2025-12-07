@@ -17,7 +17,7 @@ export default function Header() {
     { name: "Clubs", href: "/clubs" },
     { name: "Mentors", href: "/mentors" },
     { name: "Team", href: "/team" },
-    { name: "Gallery", href: "/gallery" },
+    // { name: "Gallery", href: "/gallery" },
   ];
 
   // Handle window resize
