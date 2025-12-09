@@ -89,12 +89,12 @@ export default function HeroSection() {
           className="mt-10 flex flex-wrap gap-6 justify-center"
         >
           <motion.a
-            href="/sih"
+            href="#"
             whileHover={{ scale: 1.08 }}
             whileTap={{ scale: 0.95 }}
             className="flex items-center gap-2 px-8 py-3 rounded-full bg-indigo-500 hover:bg-indigo-600 text-white font-medium shadow-lg transition-all duration-300"
           >
-            <Compass className="w-5 h-5" /> Explore SIH
+            <Compass className="w-5 h-5" /> Explore Clubs
           </motion.a>
 
           <motion.a
